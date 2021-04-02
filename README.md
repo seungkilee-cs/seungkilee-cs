@@ -9,12 +9,13 @@
 
 See this profile in :kr: [한글 프로파일](README.ko.md)
 
-```elixir
-Hanc marginis exiguitas non caperet
-```
-
 
 ## Who
+
+```elixir
+Hanc Marginis Exiguitas Non Caperet
+```
+
 
 <h4>
 
@@ -71,6 +72,8 @@ i.thoughts()
 My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized. I wholeheartedly believe that the defining challenge of our time is to more precisely define the beautifully yet loosely fluttering understandings of humanities into an accessible and elegant structure provided by mathematics and data.
 
 ## Why
+<h4>
+
 ```elixir
 404 Not Found:
 
@@ -81,6 +84,7 @@ TL;DR
 Life sucks and Coding sucks. But if we do it Together it could suck Less.
 
 ```
+</h4>
 
 ## How
 email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)
