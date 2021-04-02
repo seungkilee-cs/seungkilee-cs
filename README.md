@@ -9,7 +9,7 @@
 
 See this profile in :kr: [한글 프로파일](README.ko.md)
 
-```python
+```elixir
 Hanc marginis exiguitas non caperet
 ```
 
@@ -71,14 +71,14 @@ i.thoughts()
 My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized. I wholeheartedly believe that the defining challenge of our time is to more precisely define the beautifully yet loosely fluttering understandings of humanities into an accessible and elegant structure provided by mathematics and data.
 
 ## Why
-```
+```elixir
 404 Not Found:
 
 Something used to be here
 but then the author realized that no one actually reads more than 3 lines of text anymore.
 
 TL;DR  
-Life sucks, and Coding sucks. But if we do it together it could suck less.
+Life sucks and Coding sucks. But if we do it Together it could suck Less.
 
 ```
 
