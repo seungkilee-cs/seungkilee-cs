@@ -73,7 +73,8 @@ Hanc Marginis Exiguitas Non Caperet
 My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized. I wholeheartedly believe that the defining challenge of our time is to more precisely construct the beautifully yet loosely fluttering understandings of humanities into an precise and elegant structure provided by mathematics and data.
 
 ![Seung Ki's Github Stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs&layout=compact&theme=material-palenight)]
-![Seung Ki's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkileecs)]
+![Seung Ki's Language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seungkilee-cs&layout=compact&theme=material-palenight)]
+
 
 ## Why
 <h4>
@@ -98,9 +99,7 @@ email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)
 <!--
 **seungkilee-cs/seungkilee-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Seung Ki's Language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seungkilee-cs)]
-
-
+![Seung Ki's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkileecs)]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
