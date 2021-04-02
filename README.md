@@ -1,6 +1,7 @@
-### Seung Ki Lee
-
+# :kr: Seung Ki Lee :kr:
 See this profile in Korean [한글 프로파일](README.ko.md)
+
+
 
 <!--
 **seungkilee-cs/seungkilee-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
