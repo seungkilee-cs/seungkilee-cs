@@ -1,5 +1,5 @@
 # :headphones: Seung Ki Lee :black_nib:
-![me](./assets/developer-Seung Ki Lee-brightgreen.svg)  
+![me](./assets/developer-SeungKiLee-brightgreen.svg)
 ![python](./assets/lang-python-blue.svg)
 ![javascript](./assets/lang-javascript-yellow.svg)
 ![elixir](./assets/lang-elixir-purple.svg)
