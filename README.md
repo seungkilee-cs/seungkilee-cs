@@ -58,11 +58,18 @@ i.thoughts()
 ```
 
 ## What
-My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized.
+My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized. I wholeheartedly believe that the defining challenge of our time is to more precisely define the beautifully yet loosely fluttering understandings of humanities into an accessible and elegant structure provided by mathematics and data.
+
 [![Seung Ki's Github Stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs)](https://github.com/anuraghazra/github-readme-stats)
 
-## Why
+[![Seung Ki's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkileecs)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
+## Why
 Life sucks, but if we are together it could suck less.
 
 ## How
