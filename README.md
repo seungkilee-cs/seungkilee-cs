@@ -11,6 +11,8 @@ See this profile in :kr: [한글 프로파일](README.ko.md)
 
 ## Who
 
+<h3>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -55,8 +57,10 @@ class Developer:
 i = Developer()
 i.interests()
 i.thoughts()
-
 ```
+
+</h3>
+
 
 ## What
 My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized. I wholeheartedly believe that the defining challenge of our time is to more precisely define the beautifully yet loosely fluttering understandings of humanities into an accessible and elegant structure provided by mathematics and data.
