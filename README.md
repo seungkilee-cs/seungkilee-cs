@@ -62,11 +62,19 @@ i.thoughts()
 My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized. I wholeheartedly believe that the defining challenge of our time is to more precisely define the beautifully yet loosely fluttering understandings of humanities into an accessible and elegant structure provided by mathematics and data.
 
 ## Why
+```
+404 Not Found:
+
+Something used to be here
+but then the author realized that no one actually reads more than 3 lines of text anymore.
+
 TL;DR  
 Life sucks, and Coding sucks. But if we do it together it could suck less.
 
+```
+
 ## How
-email: [seungkilee.cs@gmail.com](emailto::seungkilee.cs@gmail.com)
+email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)
 
 ## Latest Developments
 
