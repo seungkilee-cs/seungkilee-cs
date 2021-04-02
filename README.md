@@ -11,7 +11,7 @@ See this profile in :kr: [한글 프로파일](README.ko.md)
 
 ## Who
 
-<h3>
+<h4>
 
 ```python
 #!/usr/bin/python
@@ -59,7 +59,7 @@ i.interests()
 i.thoughts()
 ```
 
-</h3>
+</h4>
 
 
 ## What
