@@ -12,7 +12,7 @@ See this profile in :kr: [한글 프로파일](README.ko.md)
 
 ## Who
 
-```elixir
+```typescript
 Hanc Marginis Exiguitas Non Caperet
 ```
 
