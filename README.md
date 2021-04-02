@@ -12,11 +12,6 @@ See this profile in :kr: [한글 프로파일](README.ko.md)
 
 ## Who
 
-```typescript
-Hanc Marginis Exiguitas Non Caperet
-```
-
-
 <h4>
 
 ```python
@@ -63,6 +58,12 @@ class Developer:
 i = Developer()
 i.interests()
 i.thoughts()
+...
+...
+```
+
+```python
+Hanc Marginis Exiguitas Non Caperet
 ```
 
 </h4>
