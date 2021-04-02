@@ -1,5 +1,5 @@
-# :kr: Seung Ki Lee :kr:
-See this profile in Korean [한글 프로파일](README.ko.md)
+# :headphones: Seung Ki Lee :black_nib:
+See this profile in :kr: [한글 프로파일](README.ko.md)
 
 
 
