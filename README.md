@@ -1,6 +1,6 @@
 # :headphones: Seung Ki Lee :black_nib:
 See this profile in :kr: [한글 프로파일](README.ko.md)
-
+https://img.shields.io/badge/developer-Seung%20Ki%20Lee-brightgreen
 
 
 <!--
