@@ -1,7 +1,9 @@
 # :headphones: Seung Ki Lee :black_nib:
-See this profile in :kr: [한글 프로파일](README.ko.md)
-https://img.shields.io/badge/developer-Seung%20Ki%20Lee-brightgreen
+![me](https://img.shields.io/badge/developer-Seung%20Ki%20Lee-brightgreen)
+![python](https://img.shields.io/badge/lang-python-blue)
+![elixir](https://img.shields.io/badge/lang-elixir-purple)
 
+See this profile in :kr: [한글 프로파일](README.ko.md)
 
 <!--
 **seungkilee-cs/seungkilee-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
