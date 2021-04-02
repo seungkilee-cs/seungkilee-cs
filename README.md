@@ -9,7 +9,7 @@
 
 See this profile in :kr: [한글 프로파일](README.ko.md)
 
-<h1> Hanc marginis exiguitas non caperet </h1>
+<h2> Hanc marginis exiguitas non caperet </h2>
 
 ## Who
 
