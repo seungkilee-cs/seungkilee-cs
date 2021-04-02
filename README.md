@@ -58,8 +58,8 @@ i.thoughts()
 ```
 
 ## What
-
 My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized.
+[![Seung Ki's Github Stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Why
 
@@ -70,7 +70,6 @@ email: seungkilee.cs@gmail.com
 linkedin
 
 ## Latest Developments
-[![Seung Ki's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkilee-cs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **seungkilee-cs/seungkilee-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
