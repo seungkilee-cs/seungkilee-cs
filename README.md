@@ -1,11 +1,11 @@
 # :headphones: Seung Ki Lee :black_nib:
 ![me](./assets/developer-Seung Ki Lee-brightgreen.svg)  
 ![python](./assets/lang-python-blue.svg)
-![elixir](./assets/lang-elixir-purple.svg)
-![c++](./assets/lang-cpp.svg)
 ![javascript](./assets/lang-javascript-yellow.svg)
+![elixir](./assets/lang-elixir-purple.svg)
 ![react.js](./assets/lang-react.js-yellow.svg)
 ![typescript](./assets/lang-typescript-blue.svg)
+![c++](./assets/lang-cpp.svg)
 
 See this profile in :kr: [한글 프로파일](README.ko.md)
 
