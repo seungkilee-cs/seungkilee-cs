@@ -27,6 +27,7 @@ class Developer:
             "Machine Learning",
             "Economics",
             "Recording",
+            "Posture",
             "Fountain Pens",
             "Audio",
             "Vocal Performance",
@@ -42,30 +43,34 @@ class Developer:
     def interests(self):
         print("My Interests Are: \n") 
         for interest in self.interests:
-            print(interest, "\n")
+            print(interest, "\n\n")
     
     def thoughts(self):
         if not self.thoughts:
             print("Hanc marginis exiguitas non caperet")
         else:
-            print("My thoughts are: \n")
             for thought in self.thoughts:
-                print(thoughts, "\n")
+                print(thoughts, "\n\n")
 i = Developer()
 i.interests()
 i.thoughts()
 
 ```
 
-## When
-
-## Where
-
 ## What
+
+My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized.
 
 ## Why
 
+Life sucks, but if we are together it could suck less.
+
 ## How
+email: seungkilee.cs@gmail.com
+linkedin
+
+## Latest Developments
+[![Seung Ki's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkilee-cs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **seungkilee-cs/seungkilee-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
