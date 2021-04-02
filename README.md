@@ -19,7 +19,7 @@ class Developer:
     def __init__(self):
         self.name = "Seung Ki Lee"
         self.role = "Developer"
-        self.location = "34.0522\xc2\xb0 N, 118.2437\xc2\xb0 W"
+        self.location = "38° 58' 11.028'' N, 77° 23' 1.9428'' W"
         self.blog = "https://seungkilee-cs.github.io/flowerpot-of-shard"
         self.interests = [
             "Algorithms",
@@ -34,7 +34,8 @@ class Developer:
             "Strength Training",
             "Linguistics",
             "Web Development",
-            "Automation"
+            "Automation",
+            "Gaming"
         ],
         self.thoughts = [
             ""
@@ -60,16 +61,12 @@ i.thoughts()
 ## What
 My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized. I wholeheartedly believe that the defining challenge of our time is to more precisely define the beautifully yet loosely fluttering understandings of humanities into an accessible and elegant structure provided by mathematics and data.
 
-![Seung Ki's Github Stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs)]  
-![Seung Ki's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkileecs)]  
-![Seung Ki's Language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seungkilee-cs)]
-
 ## Why
-Life sucks, but if we are together it could suck less.
+TL;DR  
+Life sucks, and Coding sucks. But if we do it together it could suck less.
 
 ## How
-email: seungkilee.cs@gmail.com
-linkedin
+email: [seungkilee.cs@gmail.com](emailto::seungkilee.cs@gmail.com)
 
 ## Latest Developments
 
