@@ -72,6 +72,8 @@ Hanc Marginis Exiguitas Non Caperet
 ## What
 My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized. I wholeheartedly believe that the defining challenge of our time is to more precisely construct the beautifully yet loosely fluttering understandings of humanities into an precise and elegant structure provided by mathematics and data.
 
+[![Seung Ki's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkileecs)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Why
 <h4>
 
