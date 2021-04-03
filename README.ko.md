@@ -7,7 +7,7 @@
 ![typescript](./assets/언어-타입스크립트-blue.svg)
 ![c++](./assets/언어-c++-blue.svg)
 
-See this profile in [English Profile](README.md)
+See this profile in [English](README.md)
 
 
 ## 누구냐
