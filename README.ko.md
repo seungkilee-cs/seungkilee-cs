@@ -1,7 +1,7 @@
 # :headphones: 이승기 :black_nib:
 ![me](./assets/개발자-이승기-brightgreen.svg)
 ![python](./assets/언어-파이썬-blue.svg)
-![javascript](./assets/lang-javascript-yellow.svg)
+![javascript](./assets/언어--yellow.svg)
 ![elixir](./assets/언어-엘릭서-purple.svg)
 ![react.js](./assets/언어-리액트-yellow.svg)
 ![typescript](./assets/언어-타입스크립트-blue.svg)
