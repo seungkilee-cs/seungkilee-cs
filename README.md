@@ -96,6 +96,7 @@ Life sucks and Coding sucks. But if we do it Together it could suck Less.
 email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)
 
 ## Latest Developments on VS Code
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
 ![Seung Ki's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkileecs)]
 
 <!--
