@@ -80,7 +80,7 @@ Hanc Marginis Exiguitas Non Caperet
 ## 왜하냐
 <h4>
 
-```
+```elixir
 404 페이지를 찾을 수 없습니다:  
 
 여기 뭔가 잔뜩 적어 두었던거 같은데, 요새는 세줄 요약이 없는 글은 사람들이 안보니까 싹 지운다.  
