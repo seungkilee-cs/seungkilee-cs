@@ -7,7 +7,7 @@
 ![typescript](./assets/lang-typescript-blue.svg)
 ![c++](./assets/lang-cpp.svg)
 
-See this profile in :kr: [한글 프로파일](README.ko.md)
+See this profile in  [:kr: 한글](README.ko.md)
 
 
 ## Who
