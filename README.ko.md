@@ -71,7 +71,7 @@ Hanc Marginis Exiguitas Non Caperet
 
 
 ## 뭐하냐
-지금까지 인문학이 이룩한, 개량되지 않고 정리되지 않은채로 아름답고도 자유롭게 나풀거리는 사상과 경험을 우아하며 엄밀한 수학적 체계로 해석해내어 쉬이 열람할 수 있도록 자료화하는 것에 흥미가 있다.
+지금까지 인문학이 이룩한, 개량되지 않고 정리되지 않은채로 아름답고도 자유롭게 나풀거리는 사상과 경험을 우아하며 엄밀한 수학적 체계로 해석해내어 쉬이 열람할 수 있도록 자료화하는 것에 흥미가 있습니다.
 
 ![Seung Ki's Github Stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs&layout=compact&theme=material-palenight)]
 ![Seung Ki's Language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seungkilee-cs&layout=compact&theme=material-palenight)]
@@ -83,9 +83,9 @@ Hanc Marginis Exiguitas Non Caperet
 ```elixir
 404 페이지를 찾을 수 없습니다:  
 
-여기 뭔가 잔뜩 적어 두었던거 같은데, 요새는 세줄 요약이 없는 글은 사람들이 안보니까 싹 지운다.  
+여기 뭔가 잔뜩 적어 두었던거 같은데, 요새는 세줄 요약이 없는 글은 사람들이 안보니까 싹 지웁니다.  
 
-한줄 요약, 남들이 보니까 순화해서:  
+한줄 요약, 남들이 보니까 순화해서 >>  
 사는 것도 힘들고 코딩도 힘들다. 하지만 함께 한다면 좀 덜 힘들지도 모른다.
 ```
 
