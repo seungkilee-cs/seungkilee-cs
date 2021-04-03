@@ -45,7 +45,7 @@ class Developer:
         ]
         
     def interests(self):
-        print("My Interests Are: \n") 
+        print("제 취미는: \n") 
         for interest in self.interests:
             print(interest, "\n")
     
@@ -84,8 +84,8 @@ i.thoughts()
 
 여기 뭔가 잔뜩 적어 두었던거 같은데, 요새는 세줄 요약이 없는 글은 사람들이 안보니까 싹 지운다.
 
-한줄 요약:
-인생은 좆같고 코딩도 좆같다. 하지만 함께 한다면 좀 덜 좆같을지도 모른다.
+~~순화한~~ 한줄 요약:
+사는 것도 힘들고 코딩도 힘들다. 하지만 함께 한다면 좀 덜 힘들지도 모른다.
 
 ```
 </h4>
