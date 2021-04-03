@@ -86,7 +86,7 @@ My interest is in mathematical interpretation of our accomplishments in the huma
 Something used to be here
 but then the author realized that no one actually reads more than 3 lines of text anymore.
 
-TL;DR  
+TL;DR  >>  
 Life sucks and Coding sucks. But if we do it Together it could suck Less.
 
 ```
