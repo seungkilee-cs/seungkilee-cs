@@ -64,7 +64,7 @@ i.thoughts()
 ```
 
 ```python
-여백이 부족해 적지 않는다.
+Hanc Marginis Exiguitas Non Caperet
 ```
 
 </h4>
