@@ -26,6 +26,7 @@ class Developer:
         self.blog = "https://seungkilee-cs.github.io/flowerpot-of-shard"
         self.interests = [
             "Algorithms",
+            "Reading",
             "Writing",
             "Machine Learning",
             "Economics",
