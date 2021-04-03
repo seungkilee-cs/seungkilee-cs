@@ -10,7 +10,7 @@
 See this profile in :en: [English Profile](README.md)
 
 
-## 누구
+## 누구냐
 
 <h4>
 
@@ -20,25 +20,25 @@ See this profile in :en: [English Profile](README.md)
 
 class Developer:
     def __init__(self):
-        self.name = ""
-        self.role = "Developer"
+        self.name = "이승기"
+        self.role = "개발자"
         self.location = "38° 58' 11.028'' N, 77° 23' 1.9428'' W"
         self.blog = "https://seungkilee-cs.github.io/flowerpot-of-shard"
         self.interests = [
-            "Algorithms",
-            "Writing",
-            "Machine Learning",
-            "Economics",
-            "Recording",
-            "Posture",
-            "Fountain Pens",
-            "Audio",
-            "Vocal Performance",
-            "Strength Training",
-            "Linguistics",
-            "Web Development",
-            "Automation",
-            "Gaming"
+            "알고리즘",
+            "작문",
+            "기계학습",
+            "경제학",
+            "녹음",
+            "자세",
+            "만년필",
+            "오디오",
+            "보컬",
+            "스트렝스 훈련",
+            "언어학",
+            "웹개발",
+            "자동화",
+            "게임"
         ],
         self.thoughts = [
             ""
@@ -47,14 +47,14 @@ class Developer:
     def interests(self):
         print("My Interests Are: \n") 
         for interest in self.interests:
-            print(interest, "\n\n")
+            print(interest, "\n")
     
     def thoughts(self):
         if not self.thoughts:
-            print("Hanc marginis exiguitas non caperet")
+            print("나는 모두를 놀라게할 대단한 생각을 해냈는데, 여백이 부족해 적지 않는다.")
         else:
             for thought in self.thoughts:
-                print(thoughts, "\n\n")
+                print(thought, "\n")
 i = Developer()
 i.interests()
 i.thoughts()
@@ -63,38 +63,38 @@ i.thoughts()
 ```
 
 ```python
-Hanc Marginis Exiguitas Non Caperet
+여백이 부족해 적지 않는다.
 ```
 
 </h4>
 
 
-## What
-My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized. I wholeheartedly believe that the defining challenge of our time is to more precisely construct the beautifully yet loosely fluttering understandings of humanities into an precise and elegant structure provided by mathematics and data.
+## 뭐하냐
+지금까지 인문학이 이룩한, 개량되지 않고 정리되지 않은채로 아름답고도 자유롭게 나풀거리는 사상과 경험을 우아하며 엄밀한 수학적 체계로 해석해내어 쉬이 열람할 수 있도록 자료화하는 것에 흥미가 있다.
 
 ![Seung Ki's Github Stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs&layout=compact&theme=material-palenight)]
 ![Seung Ki's Language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seungkilee-cs&layout=compact&theme=material-palenight)]
 
 
-## Why
+## 왜하냐
 <h4>
 
 ```elixir
-404 Not Found:
+404 페이지를 찾을 수 없습니다:
 
-Something used to be here
-but then the author realized that no one actually reads more than 3 lines of text anymore.
+여기 뭔가 잔뜩 적어 두었던거 같은데, 요새는 세줄 요약이 없는 글은 사람들이 안보니까 싹 지운다.
 
-TL;DR  
-Life sucks and Coding sucks. But if we do it Together it could suck Less.
+한줄 요약:
+인생은 좆같고 코딩도 좆같다. 하지만 함께 한다면 좀 덜 좆같을지도 모른다.
 
 ```
 </h4>
 
-## How
+## 어떻게하냐
+연락은 이리로
 email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)
 
-## Latest Developments on VS Code
+## 최근 하는 짓
 ![Seung Ki's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkileecs)]
 
 <!--
