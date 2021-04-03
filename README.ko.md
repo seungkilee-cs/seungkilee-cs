@@ -73,7 +73,7 @@ Hanc Marginis Exiguitas Non Caperet
 ## 뭐하냐
 정확하게 말하자면, 지금까지 인문학이 이룩한 개량되지 않고 정리되지 않은채로 아름답고도 자유롭게 나풀거리는 사상과 경험을 우아하며 엄밀한 수학적 체계로 해석해내어 쉬이 열람할 수 있도록 자료화하는 것에 흥미가 있습니다.
 
-엄밀하게 말하자면, 경험적 맥락의 명문화를 통한 기표와 기의 사이의 고정점을 구하는 작업이 현대의 지상과제라고 믿어 의심치 않습니다. 그리고 프로그래밍을 그것을 위한 도구로서 사용하고 싶습니다.
+엄밀하게 말하자면, 경험적 맥락의 명문화를 통해서 소통을 위해 요구되는 기표와 기의 사이의 고정점을 구하고, 부수고, 고치는 작업이 현대의 지상과제라고 믿어 의심치 않습니다. 그리고 프로그래밍을 그것을 위한 도구로서 사용하고 싶습니다.
 
 ![Seung Ki's Github Stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs&layout=compact&theme=material-palenight)]
 ![Seung Ki's Language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seungkilee-cs&layout=compact&theme=material-palenight)]
