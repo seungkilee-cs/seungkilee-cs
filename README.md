@@ -95,12 +95,11 @@ Life sucks and Coding sucks. But if we do it Together it could suck Less.
 ## How
 email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)
 
-## Latest Developments on VS Code
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
-![Seung Ki's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkileecs)]
-
 <!--
 **seungkilee-cs/seungkilee-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Latest Developments on VS Code
+![Seung Ki's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkileecs)]
 
 Here are some ideas to get you started:
 
