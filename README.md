@@ -22,8 +22,6 @@ class Developer:
     def __init__(self):
         self.name = "Seung Ki Lee"
         self.role = "Developer"
-        self.location = "38° 58' 11.028'' N, 77° 23' 1.9428'' W"
-        self.blog = "https://seungkilee-cs.github.io/flowerpot-of-shard"
         self.interests = [
             "Algorithms",
             "Reading",
