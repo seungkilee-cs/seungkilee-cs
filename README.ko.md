@@ -23,7 +23,6 @@ class Developer:
         self.name = "이승기"
         self.role = "개발자"
         self.location = "38° 58' 11.028'' N, 77° 23' 1.9428'' W"
-        self.blog = "https://seungkilee-cs.github.io/flowerpot-of-shard"
         self.interests = [
             "알고리즘",
             "독서",
