@@ -36,7 +36,7 @@ class Developer:
             "Gaming"
         ],
         self.thoughts = [
-            ""
+
         ]
         
     def interests(self):
