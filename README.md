@@ -3,10 +3,8 @@
 ![python](./assets/lang-python-blue.svg)
 ![javascript](./assets/lang-javascript-yellow.svg)
 ![elixir](./assets/lang-elixir-purple.svg)
-![react.js](./assets/lang-react.js-yellow.svg)
-![typescript](./assets/lang-typescript-blue.svg)
 ![c++](./assets/lang-cpp.svg)
-
+![typescript](./assets/lang-typescript-blue.svg)
 
 ## Who
 
