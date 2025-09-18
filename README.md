@@ -17,24 +17,22 @@
 class Developer:
     def __init__(self):
         self.name = "Seung Ki Lee"
-        self.role = "Developer"
+        self.role = "Engineer"
         self.interests = [
             "Algorithms",
-            "Reading",
-            "Writing",
-            "Machine Learning",
+            "Philosophy",
             "Economics",
-            "Fountain Pens",
+            "Writing",
+            "Data Science",
+            "Stationary",
             "Audio",
-            "Vocal",
-            "Strength Training",
+            "Resitance Training",
             "Functional Programming",
-            "Linguistics",
             "Automation",
             "Gaming"
         ],
         self.thoughts = [
-
+            None,
         ]
         
     def interests(self):
