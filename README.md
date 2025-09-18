@@ -32,7 +32,7 @@ class Developer:
             "Gaming"
         ],
         self.thoughts = [
-            None,
+
         ]
         
     def interests(self):
