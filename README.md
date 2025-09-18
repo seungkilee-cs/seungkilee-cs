@@ -67,7 +67,7 @@ My interest is in mathematical interpretation of our accomplishments in the huma
 <h4>
 
 ```elixir
-Life sucks and Coding sucks. But if we do it Together it could suck Less. Read out :)
+Life sucks and Coding sucks. But if we do it Together it could suck Less. Connect with me.
 ```
 </h4>
 
