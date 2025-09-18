@@ -14,10 +14,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class Developer:
+class Engineer:
     def __init__(self):
         self.name = "Seung Ki Lee"
-        self.role = "Engineer"
+        self.role = "Software Engineer"
         self.interests = [
             "Algorithmic Problem Solving",
             "Philosophy",
@@ -47,7 +47,7 @@ class Developer:
         else:
             for thought in self.thoughts:
                 print(thoughts, "\n\n")
-i = Developer()
+i = Engineer()
 i.interests()
 i.thoughts()
 ...
