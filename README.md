@@ -19,11 +19,12 @@ class Developer:
         self.name = "Seung Ki Lee"
         self.role = "Engineer"
         self.interests = [
-            "Algorithms",
+            "Algorithmic Problem Solving",
             "Philosophy",
             "Economics",
             "Writing",
             "Data Science",
+            "Financial Modeling",
             "Stationary",
             "Audio",
             "Resitance Training",
@@ -32,7 +33,7 @@ class Developer:
             "Gaming"
         ],
         self.thoughts = [
-
+            
         ]
         
     def interests(self):
