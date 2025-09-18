@@ -55,10 +55,6 @@ i.thoughts()
 ...
 ```
 
-```python
-Hanc Marginis Exiguitas Non Caperet
-```
-
 </h4>
 
 
@@ -73,14 +69,7 @@ My interest is in mathematical interpretation of our accomplishments in the huma
 <h4>
 
 ```elixir
-404 Not Found:
-
-Something used to be here
-but then the author realized that no one actually reads more than 3 lines of text anymore.
-
-TL;DR  >>  
-Life sucks and Coding sucks. But if we do it Together it could suck Less.
-
+Life sucks and Coding sucks. But if we do it Together it could suck Less. Read out :)
 ```
 </h4>
 
