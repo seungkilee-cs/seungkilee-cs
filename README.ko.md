@@ -62,9 +62,9 @@ i.thoughts()
 ## What
 인문학 쌓아올린 엄밀하지 못한 직관과 성취들을 수리적으로 체계화하는데에 관심이 있습니다.  
 현실을 보다 더 정확하게 예측하는 모델을 만드는 일에 관심이 있습니다.  
-쌓여가는 하루하루를 만드는데 관심이 있습니다.  
-생각을 글로 표현하는데 관심이 있습니다.  
-사람들에게 가치를 가져다주는 일에 관심이 있습니다.  
+하루하루를 쌓아서 더 큰 무언가를 만드는데 관심이 있습니다.  
+생각을 명확하게 글로 표현하는데 관심이 있습니다.  
+어떤 일을 하던, 사람들에게 가치를 가져다주는 일에 관심이 있습니다.  
 
 <!--![Seung Ki's Github Stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs&layout=compact&theme=material-palenight)-->
 <!--![Seung Ki's Language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seungkilee-cs&layout=compact&theme=material-palenight)-->
