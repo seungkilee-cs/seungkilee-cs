@@ -48,7 +48,7 @@ class Engineer:
             print("Hanc marginis exiguitas non caperet")
         else:
             for thought in self.thoughts:
-                print(thoughts, "\n\n")
+                print(thought, "\n\n")
 i = Engineer()
 i.interests()
 i.thoughts()
