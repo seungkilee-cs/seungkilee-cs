@@ -6,6 +6,8 @@
 ![c++](./assets/lang-cpp.svg)
 ![typescript](./assets/lang-typescript-blue.svg)
 
+> [한글](README.ko.md)로 읽으실 수 있습니다
+
 ## Who
 
 <h4>
@@ -58,7 +60,12 @@ i.thoughts()
 
 
 ## What
-My interest is in mathematical interpretation of our accomplishments in the humanities yet to be quantified and organized. I believe that the defining challenge of our time is to more precisely construct the beautifully yet loosely fluttering understandings of humanities into an precise and elegant structure provided by mathematics and data.
+I'm interested in:   
+Mathematical interpretation of our intuitions and accomplishments in the humanities yet to be operationalized and systemized.  
+Building a model that more holistically explains and predicts the world.  
+To stack days upon days in hopes that it builds upto me someday.  
+Clearly and explicitly articulating myself in writing.  
+Bring value to people, whatever I do.  
 
 <!--![Seung Ki's Github Stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs&layout=compact&theme=material-palenight)-->
 <!--![Seung Ki's Language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seungkilee-cs&layout=compact&theme=material-palenight)-->
@@ -74,22 +81,3 @@ Life sucks and Coding sucks. But if we do it Together it could suck Less. Connec
 
 ## How
 email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)
-
-<!--
-**seungkilee-cs/seungkilee-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Latest Developments on VS Code
-![Seung Ki's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=seungkileecs)]
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
