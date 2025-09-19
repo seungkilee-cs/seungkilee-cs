@@ -63,7 +63,7 @@ i.thoughts()
 I'm interested in:   
 Mathematical interpretation of our intuitions and accomplishments in the humanities yet to be operationalized and systemized.  
 Building a model that more holistically explains and predicts the world.  
-To stack days upon days in hopes that it builds upto me someday.  
+To stack days upon days in hopes that it builds up to me someday.  
 Clearly and explicitly articulating myself in writing.  
 Bring value to people, whatever I do.  
 
