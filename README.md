@@ -60,8 +60,6 @@ class Engineer:
             "Audio",
             "Resitance Training",
             "Functional Programming",
-            "Automation",
-            "Gaming"
         ],
         self.thoughts = [
             
