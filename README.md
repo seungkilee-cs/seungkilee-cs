@@ -8,6 +8,10 @@
 
 > [한글](README.ko.md)로 읽으실 수 있습니다
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=seungkilee-cs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
+</a>
+
 ## Who
 
 <h4>
@@ -66,9 +70,6 @@ Building a model that more holistically explains and predicts the world.
 To stack days upon days in hopes that it builds up to me someday.  
 Clearly and explicitly articulating myself in writing.  
 Bring value to people, whatever I do.  
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--![Seung Ki's Github Stats](https://github-readme-stats.vercel.app/api?username=seungkilee-cs&layout=compact&theme=material-palenight)-->
 <!--![Seung Ki's Language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seungkilee-cs&layout=compact&theme=material-palenight)-->
