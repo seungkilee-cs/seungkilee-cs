@@ -12,7 +12,7 @@
   <img align="right" width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=seungkilee-cs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
 </a> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungkilee-cs&layout=compact&theme=dark&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungkilee-cs&layout=compact&theme=dark&hide_border=true) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=seungkilee-cs&theme=onedark)](https://github.com/gkhan205/github-profile-trophy)
 
