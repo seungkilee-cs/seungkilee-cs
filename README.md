@@ -61,9 +61,7 @@ class Engineer:
             "Resitance Training",
             "Functional Programming",
         ],
-        self.thoughts = [
-            
-        ]
+        self.thoughts = [ ]
         
     def interests(self):
         print("My Interests Are: \n") 
