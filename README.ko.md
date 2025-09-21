@@ -8,6 +8,8 @@
 
 > Read in [English](README.md)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=seungkilee-cs&theme=onedark)](https://github.com/gkhan205/github-profile-trophy)
+
 ## Who
 
 <h4>
