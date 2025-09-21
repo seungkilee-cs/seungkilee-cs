@@ -77,8 +77,6 @@ class Engineer:
 i = Engineer()
 i.interests()
 i.thoughts()
-...
-...
 ```
 
 </h4>
