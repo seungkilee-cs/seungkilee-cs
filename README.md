@@ -8,9 +8,9 @@
 
 > [한글](README.ko.md)로 읽으실 수 있습니다
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=seungkilee-cs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
-</a>
+</a> -->
 
 ## Who
 
