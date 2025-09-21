@@ -55,15 +55,11 @@ class Engineer:
             "오디오",
             "저항운동",
             "함수형 프로그래밍",
-            "자동화",
-            "게임"
         ],
-        self.thoughts = [
-            
-        ]
+        self.thoughts = [ ]
         
     def interests(self):
-        print("제가 좋아하는 것은: \n") 
+        print("좋아하는 것들: \n") 
         for interest in self.interests:
             print(interest, "\n\n")
     
@@ -76,8 +72,6 @@ class Engineer:
 i = Engineer()
 i.interests()
 i.thoughts()
-...
-...
 ```
 
 </h4>
