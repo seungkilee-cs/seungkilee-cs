@@ -78,7 +78,6 @@ defmodule Engineer do
   end
 end
 
-# Usage
 engineer = Engineer.new()
 Engineer.show_interests(engineer)
 Engineer.show_thoughts(engineer)
