@@ -34,15 +34,11 @@
 
 <h4>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class Engineer:
-    def __init__(self):
-        self.name = "이승기"
-        self.role = "Software Engineer"
-        self.interests = [
+```elixir
+defmodule Engineer do
+  defstruct name: "이승기",
+            role: "Software Engineer", 
+            interests: [
             "알고리듬",
             "철학",
             "경제학",
@@ -53,23 +49,34 @@ class Engineer:
             "오디오",
             "저항운동",
             "함수형 프로그래밍",
-        ],
-        self.thoughts = [ ]
-        
-    def interests(self):
-        print("좋아하는 것들: \n") 
-        for interest in self.interests:
-            print(interest, "\n\n")
-    
-    def thoughts(self):
-        if not self.thoughts:
-            print("Hanc marginis exiguitas non caperet")
-        else:
-            for thought in self.thoughts:
-                print(thought, "\n\n")
-i = Engineer()
-i.interests()
-i.thoughts()
+            ],
+            thoughts: []
+
+  def new do
+    %Engineer{}
+  end
+
+  def show_interests(%Engineer{interests: interests}) do
+    IO.puts("좋아하는 것들: \n")
+    Enum.each(interests, fn interest ->
+      IO.puts("#{interest}\n\n")
+    end)
+  end
+
+  def show_thoughts(%Engineer{thoughts: thoughts}) do
+    if Enum.empty?(thoughts) do
+      IO.puts("Hanc marginis exiguitas non caperet")
+    else
+      Enum.each(thoughts, fn thought ->
+        IO.puts("#{thought}\n\n") 
+      end)
+    end
+  end
+end
+
+engineer = Engineer.new()
+Engineer.show_interests(engineer)
+Engineer.show_thoughts(engineer)
 ```
 
 </h4>
