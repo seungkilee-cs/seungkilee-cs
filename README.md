@@ -39,41 +39,50 @@
 <h4>
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+defmodule Engineer do
+  defstruct name: "Seung Ki Lee",
+            role: "Software Engineer", 
+            interests: [
+              "Algorithmic Problem Solving",
+              "Philosophy", 
+              "Economics",
+              "Writing",
+              "Data Science",
+              "Financial Modeling",
+              "Stationary",
+              "Audio",
+              "Resistance Training",
+              "Functional Programming"
+            ],
+            thoughts: []
 
-class Engineer:
-    def __init__(self):
-        self.name = "Seung Ki Lee"
-        self.role = "Software Engineer"
-        self.interests = [
-            "Algorithmic Problem Solving",
-            "Philosophy",
-            "Economics",
-            "Writing",
-            "Data Science",
-            "Financial Modeling",
-            "Stationary",
-            "Audio",
-            "Resitance Training",
-            "Functional Programming",
-        ],
-        self.thoughts = [ ]
-        
-    def interests(self):
-        print("My Interests Are: \n") 
-        for interest in self.interests:
-            print(interest, "\n\n")
-    
-    def thoughts(self):
-        if not self.thoughts:
-            print("Hanc marginis exiguitas non caperet")
-        else:
-            for thought in self.thoughts:
-                print(thought, "\n\n")
-i = Engineer()
-i.interests()
-i.thoughts()
+  def new do
+    %Engineer{}
+  end
+
+  def show_interests(%Engineer{interests: interests}) do
+    IO.puts("My Interests Are: \n")
+    Enum.each(interests, fn interest ->
+      IO.puts("#{interest}\n\n")
+    end)
+  end
+
+  def show_thoughts(%Engineer{thoughts: thoughts}) do
+    if Enum.empty?(thoughts) do
+      IO.puts("Hanc marginis exiguitas non caperet")
+    else
+      Enum.each(thoughts, fn thought ->
+        IO.puts("#{thought}\n\n") 
+      end)
+    end
+  end
+end
+
+# Usage
+engineer = Engineer.new()
+Engineer.show_interests(engineer)
+Engineer.show_thoughts(engineer)
+
 ```
 
 </h4>
