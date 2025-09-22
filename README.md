@@ -38,7 +38,7 @@
 
 <h4>
 
-```python
+```elixir
 defmodule Engineer do
   defstruct name: "Seung Ki Lee",
             role: "Software Engineer", 
