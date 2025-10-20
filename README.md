@@ -35,14 +35,7 @@
 > [한글](README.ko.md)로 읽으실 수 있습니다
 
 ## Who
-
-<h4>
-
-```elixir
-defmodule Engineer do
-  defstruct name: "Seung Ki Lee",
-            role: "Software Engineer", 
-            interests: [
+Hi, I'm Seung Ki Lee. My interests are: [
               "Algorithmic Problem Solving",
               "Philosophy", 
               "Economics",
@@ -53,42 +46,11 @@ defmodule Engineer do
               "Audio",
               "Resistance Training",
               "Functional Programming"
-            ],
-            thoughts: []
-
-  def new do
-    %Engineer{}
-  end
-
-  def show_interests(%Engineer{interests: interests}) do
-    IO.puts("My Interests Are: \n")
-    Enum.each(interests, fn interest ->
-      IO.puts("#{interest}\n\n")
-    end)
-  end
-
-  def show_thoughts(%Engineer{thoughts: thoughts}) do
-    if Enum.empty?(thoughts) do
-      IO.puts("Hanc marginis exiguitas non caperet")
-    else
-      Enum.each(thoughts, fn thought ->
-        IO.puts("#{thought}\n\n") 
-      end)
-    end
-  end
-end
-
-engineer = Engineer.new()
-Engineer.show_interests(engineer)
-Engineer.show_thoughts(engineer)
-
-```
-
-</h4>
+            ]
 
 
 ## What
-I'm interested in:   
+As an engineer, I want to:   
 Mathematical interpretation of our intuitions and accomplishments in the humanities yet to be operationalized and systemized.  
 Building a model that more holistically explains and predicts the world.  
 To stack days upon days in hopes that it builds up to me someday.  
@@ -103,9 +65,11 @@ Bring value to people, whatever I do.
 <h4>
 
 ```elixir
-Life sucks and Coding sucks. But if we do it Together it could suck Less. Connect with me.
+Life sucks and Coding sucks. But if we do it Together it could suck Less.
 ```
 </h4>
 
 ## How
 email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)
+website: [seungkilee.com](https://www.seungkilee.com)
+linkedin: [in/seungkilee](linkedin.com/in/seungkilee)
