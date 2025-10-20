@@ -35,7 +35,7 @@
 > [한글](README.ko.md)로 읽으실 수 있습니다
 
 ## Who
-Hi, I'm Seung Ki Lee. Here so some cool things I've built:
+Hi, I'm Seung Ki Lee. Professionally I build full stack applications and backend solutions. Here so some cool things I've built:
 
 [Spektra](https://www.seungkilee.com/spektra) - Client Side Spectrum Analyzer with FFT implemented from scratch Rust+WASM  
 [Saku Audio Player](https://www.seungkilee.com/saku-audio-player) - Audio Player With AutoEq Supported 10 Band PEQ for IEM and Headphone  
