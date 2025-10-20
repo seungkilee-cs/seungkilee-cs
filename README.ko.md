@@ -31,14 +31,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=seungkilee-cs&theme=onedark)](https://github.com/gkhan205/github-profile-trophy) -->
 
 ## Who
-
-<h4>
-
-```elixir
-defmodule Engineer do
-  defstruct name: "이승기",
-            role: "Software Engineer", 
-            interests: [
+이승기입니다. 제가 관심이 있는 분야들은 [
             "알고리듬",
             "철학",
             "경제학",
@@ -49,37 +42,7 @@ defmodule Engineer do
             "오디오",
             "저항운동",
             "함수형 프로그래밍",
-            ],
-            thoughts: []
-
-  def new do
-    %Engineer{}
-  end
-
-  def show_interests(%Engineer{interests: interests}) do
-    IO.puts("좋아하는 것들: \n")
-    Enum.each(interests, fn interest ->
-      IO.puts("#{interest}\n\n")
-    end)
-  end
-
-  def show_thoughts(%Engineer{thoughts: thoughts}) do
-    if Enum.empty?(thoughts) do
-      IO.puts("Hanc marginis exiguitas non caperet")
-    else
-      Enum.each(thoughts, fn thought ->
-        IO.puts("#{thought}\n\n") 
-      end)
-    end
-  end
-end
-
-engineer = Engineer.new()
-Engineer.show_interests(engineer)
-Engineer.show_thoughts(engineer)
-```
-
-</h4>
+            ]
 
 
 ## What
@@ -97,9 +60,11 @@ Engineer.show_thoughts(engineer)
 <h4>
 
 ```elixir
-사는건 힘들고, 코딩도 힘들다. 하지만 함께하면 좀 덜 힘들지도.
+사는 것도 힘들고, 코딩도 힘들다. 하지만 함께하면 좀 덜 힘들지도 모르니까.
 ```
 </h4>
 
 ## How
 email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)
+website: [seungkilee.com](https://www.seungkilee.com)
+linkedin: [in/seungkilee](linkedin.com/in/seungkilee)
