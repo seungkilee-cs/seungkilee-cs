@@ -200,6 +200,6 @@ Life sucks and Coding sucks. But if we do it Together it could suck Less.
 </h4>
 
 ## How
-email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)
-website: [seungkilee.com](https://www.seungkilee.com)
-linkedin: [in/seungkilee](linkedin.com/in/seungkilee)
+email: [seungkilee.cs@gmail.com](mailto:seungkilee.cs@gmail.com)  
+website: [seungkilee.com](https://www.seungkilee.com)  
+linkedin: [in/seungkilee](linkedin.com/in/seungkilee)  
