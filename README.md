@@ -157,9 +157,7 @@ I like to just jot down my thoughts on different topics, most are meaningless bu
 
 ### [Spektra](https://www.seungkilee.com/spektra)
   
-  Before I found Qobuz, there were some suspicious FLAC vendors online that had the lossless containers filled with ripped audio in 128kbps. While I had my suspicions of these cases, to make sure I used tools like [Spek](spek.cc) to verify that it had full range of audio signals. But installing spek on different machines was a little overhead, but an overhead nontheless. So I wanted to build a tool that can do what spek does but without any install and without any server side processing for privacy. Thus, 
-  
-  Spectrum Analyzer hosted on static page, with RUST Core and JS Interface. My attempt at [Spek](spek.cc) for Web.  
+  Before I found Qobuz, there were some suspicious FLAC vendors online that had the lossless containers filled with ripped audio in 128kbps. While I had my suspicions of these cases, to make sure I used tools like [Spek](spek.cc) to verify that it had full range of audio signals. But installing spek on different machines was a little overhead, but an overhead nontheless. So I wanted to build a tool that can do what spek does but without any install and without any server side processing for privacy. Thus, Spektra is born. A spectrum analyzer hosted on static page, with RUST Core and JS Interface. This is my attempt at [Spek](spek.cc) for Web.  
   
   [Demo](https://www.seungkilee.com/spektra) | [Code](https://github.com/seungkilee-cs/spektra)
   
@@ -167,7 +165,7 @@ I like to just jot down my thoughts on different topics, most are meaningless bu
   
   Audio Player With AutoEq Supported 10 Band PEQ for IEM and Headphone
   
-  I love using the PEQ functionality on PowerAmp on Android, and EqualizerAPO on windows. But again,  I felt that   
+  I love using the PEQ functionality on PowerAmp on Android, and EqualizerAPO on windows. But again, with constant workspace switching, I needed something more ubiquitous. Qudelix 5K and the Chrome extension control does this very well, but it still requires me to carry a physical hardware and locks me into the specific hardware, plus the 2.5mm balanced output requires me to carry an adopter for 4.4mm cables. I wanted to build something that can give me the same abstraction of application specific PEQ control and AutoEq support that PowerAmp and Qudelix has, but serverless. And thus, Saku audio player is born. It also has some neat features like keyboard navigations and easy A/B testing feature using PEQ Bypass that I always wanted in other equalizers and audio players.     
   
   [Demo](https://www.seungkilee.com/saku-audio-player) | [Code](https://github.com/seungkilee-cs/saku-audio-player)
   
