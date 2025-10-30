@@ -82,7 +82,18 @@ My interests are:
   <summary> Philosophy </summary>
   
   I believe that philosophy, much like mathematics is a tool we can employee to solve a problem.  
-  I'm Fascinated by Phenomenology and Modal Logic and I want to use the formal structure and concepts in Engineering to operationalize the narrative insights and achievements in humanities that haven't been streamlined.  
+  I'm fascinated by Phenomenology and Modal Logic, and interested in visualizing abstract concepts into metaphors and models to help people see my understanding of it.
+  <!-- [Foucault's Power]() -->
+  <!-- [Heidegger's Hermeneutic Circle]() -->
+
+  <!-- [Light in the Bottle: Heidegger's Seinsdenken]() -->
+  <!-- [Limitations of Assemblage and Diagram] -->
+  <!-- [Critique of Metaphysics]() -->
+  <!-- [Overcoming of Levinasian Metaphysics] -->
+  <!-- [Limitations of Deliberative Democracy and Closed Public Sphere]() -->
+  <!-- [Habermas and Conceptual Appropriation]() -->
+  <!-- [Habermas as Sophisticated Schmittian]() -->
+  I want to use the formal structure and concepts in Engineering to operationalize the narrative insights and achievements in humanities that haven't been streamlined.  
 </details>
 
 
