@@ -164,7 +164,7 @@ I like to just jot down my thoughts on different topics, most are meaningless bu
 <details>
   <summary> Audio </summary>
   
-  I moved around a lot in my life so naturally my headphone collection is limited to a very small core devices like Focal Clear, Sennheiser HD800S, Hifiman HE6, Hifiman HE1000 V2. Naturally the Dac/Amps and sources are also largely consolidated. On the other hand, I have much more comprehensive collection of things more portable like IEMs and portable DACs. My interest in portable and local audio is what largely drives my audio related projects.
+  I moved around a lot in my life so naturally my headphone collection is limited to a very small core devices. Likewise the Dac/Amps and sources are also largely consolidated. On the other hand, I have much more comprehensive collection of things more portable like IEMs and portable DACs. My interest in portable and local audio is what largely drives my audio related projects.
 
 ### [Spektra](https://www.seungkilee.com/spektra)
   
