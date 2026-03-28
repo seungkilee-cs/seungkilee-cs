@@ -35,16 +35,17 @@
 > [한글](README.ko.md)로 읽으실 수 있습니다
 
 ## Who
-Hi, I'm Seung Ki Lee. Professionally I build full stack applications and backend solutions. Here so some cool things I've built:
+Hi, I'm Seung Ki Lee. Professionally I build Enterprise ERP system, full stack applications and backend solutions. Here so some cool things I've built:
 
 [Spektra](https://www.seungkilee.com/spektra) - Client Side Spectrum Analyzer with FFT implemented from scratch Rust+WASM  
 [Saku Audio Player](https://www.seungkilee.com/saku-audio-player) - Audio Player With AutoEq Supported 10 Band PEQ for IEM and Headphone  
 [Financial Modeling](https://www.seungkilee.com/Financial-Modeling/) - Tool for Visualizing popular finance models without set up overhead  
+[HistoFlow](https://github.com/seungkilee-cs/HistoFlow) - AI Cancer detection application with TS interface and Kotlin Springboot backend with Python ML Services. Perfromant AI infrastructure and pipeline, inspired by Lunit Platform   
 <!--! 
 [Alethea Interactive]() - Visualizing my understanding of Heidegger with metaphors  
 [FE3H Save Editor Web]() - Web editor for Fire Emblem Three Houses Save editing using Rust Core for binary handling and Typescript interface
 [GYTMDL GUI]() - Cross Platform desktop wrapper for [gytmdl]() written in Tuari + TS + Vite for easy cookie handling and QoL improvements
-[HistoFlow]() - AI Cancer detection application with TS interface and Kotlin Springboot backend with Python ML Services
+
 -->
 
 My interests are: 
